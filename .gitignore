@@ -1,3 +1,10 @@
+*/Chapters/
+*.pyc
+*/Tafseer/
+*.html
+.vscode
+*-lock.json
+
 # Logs
 logs
 *.log
